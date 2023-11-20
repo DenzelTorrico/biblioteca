@@ -11,7 +11,7 @@
     >
       <q-card style="width: 450px; max-width: 80vw;">
         <q-card-section class="bg-dark q-mb-sm">
-          <div class="text-h6 text-white">Agregar Libro
+          <div class="text-h6 text-white">Agregar Nuevo Libro
             <q-btn class="q-ml-md" flat label="Minimizar" v-close-popup />
           </div>
 
