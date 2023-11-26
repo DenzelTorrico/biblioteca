@@ -1,6 +1,5 @@
 -- MySQL dump 10.13  Distrib 8.0.31, for Win64 (x86_64)
 --
--- Host: localhost    Database: inscripcion_produccion06112019
 -- ------------------------------------------------------
 -- Server version	8.0.31
 
